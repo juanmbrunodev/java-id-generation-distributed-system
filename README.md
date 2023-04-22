@@ -1,1 +1,1 @@
-# java-id-generation-distributed-system
+# java-id-gen-distributed-system
